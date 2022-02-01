@@ -7,4 +7,7 @@ echo "Test 4"
 <p>
     This is a new feature;
 </p>
-?>
+<!--Add into newer-->
+<p>
+    This is a newer;
+</p>
